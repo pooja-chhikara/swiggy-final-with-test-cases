@@ -1,0 +1,51 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "lets start ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest",
+    "watch-test":"jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooja-chhikara-whitehatjr/pract1.git"
+  },
+  "keywords": [
+    "reactinit"
+  ],
+  "author": "pooja-chhikara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooja-chhikara-whitehatjr/pract1/issues"
+  },
+  "homepage": "https://github.com/pooja-chhikara-whitehatjr/pract1#readme",
+  "dependencies": {
+    "@babel/preset-react": "^7.23.3",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@syncfusion/ej2-buttons": "^23.1.43",
+    "@syncfusion/ej2-react-buttons": "^23.1.43",
+    "jest": "^29.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.17.0",
+    "react-switch": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@testing-library/jest-dom": "^6.4.1",
+    "@testing-library/react": "^14.1.2",
+    "babel-jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.6"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

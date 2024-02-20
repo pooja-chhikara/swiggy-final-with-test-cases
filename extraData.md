@@ -1,0 +1,26 @@
+{/* <RestCard name="Fern" cuisine="Hara Bhara Kabab, Asia" rating="4.5" Eta="30 minutes" i="https://www.foodie-trail.com/wp-content/uploads/2022/03/IMG_8538-scaled.jpg"/>
+                <RestCard name="Leela" cuisine="Sizzeler , Itilian" rating="4.3" Eta="20 minutes" i="https://culinaryshades.com/wp-content/uploads/2021/08/Sizzler-v3-1020x1536.jpg"/>
+                <RestCard name="McD" cuisine="Burger , USA" rating="4.3" Eta="34 minutes" i="https://eatbunslut.com/wp-content/uploads/2023/02/shutterstock_592466789-1024x683.jpg"/>
+                <RestCard name="Pizza Hut" cuisine="Pizza , Italian" rating="4.2" Eta="20 minutes" i="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pizza_in_Rajkot.jpg/800px-Pizza_in_Rajkot.jpg?20210321082655"/>
+                <RestCard name="Rangoli" cuisine="IceCream ,veraval" rating="4.1" Eta="15 minutes" i="https://uploads-ssl.webflow.com/5e9ebc3fff165933f19fbdbe/61b31c9d289e22335b6753b2_Ice%20Cream%202-p-1080.jpeg"/>
+                <RestCard name="Dominos" cuisine="Garlic Bread , UK" rating="4.1" Eta="24 minutes" i="https://spicecravings.com/wp-content/uploads/2021/09/Air-Fryer-Garlic-Bread-3-1024x1536.jpg"/>
+                <RestCard name="zapoli" cuisine="Rainbow Cake, veraval" rating="4.0" Eta="45 minutes" i="https://levanilla.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/4/24.jpg"/> */}
+
+
+    <RestCard resData={resList[0]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[1]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[2]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[3]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[4]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[5]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[6]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[7]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[8]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[9]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[10]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[11]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[12]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[13]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[14]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                <RestCard resData={resList[15]}  name="Srover Portico" cuisine="PaneerTikka , North Indian, Asia" rating="4.8" Eta="40 minutes" i="https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-in-oven-800x1200.jpg" /> 
+                
